@@ -1,0 +1,8 @@
+{
+  "name": "monari",
+  "version": "1.0.0",
+  "description": "Mini framework de JavaScript con JSX, arquitectura FLUX y virtual DOM",
+  "type": "module",
+  "main": "src/monari.js",
+  "license": "MIT"
+}
